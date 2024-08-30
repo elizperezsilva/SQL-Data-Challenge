@@ -33,3 +33,4 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 # Code Source
 - Class walkthroughs from module 9 sql - rewatched through zoom links
 - Module solutions provided in sql module 9 files
+- quickDBD free diagram walkthrough to know how to make diagram
